@@ -41,7 +41,7 @@ _Для владельца:_
 
 > Use-case диаграмма функциональных требований:
 
-![usecase]()
+![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/UseCaseTTG.png)
 
 ## Сущности БД и Er-diagrams
 _Для 1 БД (более статичные данные):_
@@ -64,7 +64,7 @@ _Для 2 БД (более динамичные данные):_
 4. Динамический список информирования
 
 > ER-диаграмма
-![er2]()
+![er2](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/ErDiag_bd2.png)
 
 ## Запросы к БД
 
