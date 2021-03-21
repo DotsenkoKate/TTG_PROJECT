@@ -41,7 +41,7 @@ _Для владельца:_
 
 > Use-case диаграмма функциональных требований:
 
-![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/UseCaseTTG.png)
+![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/UseCaseTTG.png)
 
 ## Сущности БД и Er-diagrams
 _Для 1 БД (более статичные данные):_
@@ -55,7 +55,7 @@ _Для 1 БД (более статичные данные):_
 8. Связь маршрута и остановки
 
 > ER-диаграмма
-![er1](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/ErDiag_bd1_withAtr_1_1.png)
+![er1](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/ErDiag_bd1_withAtr_1_1.png)
 
 _Для 2 БД (более динамичные данные):_
 1. Пользователь
@@ -64,7 +64,7 @@ _Для 2 БД (более динамичные данные):_
 4. Динамический список информирования
 
 > ER-диаграмма
-![er2](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/ErDiag_bd2.png)
+![er2](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/ErDiag_bd2.png)
 
 ## Запросы к БД
 
