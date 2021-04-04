@@ -94,3 +94,7 @@ _Для 2 БД (более динамичные данные):_
 Разработкой занимается 2 человека: ***Доценко Екатерина*** и ***Кирпа Андрей***
 
 > Задачи команды и процесс их выполнения: [наши задачи](https://trello.com/b/kCOHSWFw/ttg-субд-project)
+
+## Схема созданной базы данных в СУБД PostgreSQL
+
+> ![schema](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/DB_schema.png)
