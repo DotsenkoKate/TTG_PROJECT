@@ -66,6 +66,14 @@ _Для 2 БД (более динамичные данные):_
 > ER-диаграмма
 ![er2](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/ErDiag_bd2.png)
 
+_Для 3 БД (встраиваемая БД):_
+1. Сохраненные пользователи
+2. Сохраненные маршруты
+3. Быстрые (стандартные) сообщения
+
+> ER-диаграмма
+![er3](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/ttg_saves_ER.png)
+
 ## Запросы к БД
 
 - Добавление нового пользователя
@@ -98,6 +106,10 @@ _Для 2 БД (более динамичные данные):_
 ## Схема созданной базы данных в СУБД PostgreSQL
 
 > ![schema](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/DB_schema.png)
+
+## Схема созданной базы данных в СУБД SQLite
+
+> ![schema](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/ttg_saves_DB.png)
 
 ## Нефункциональные требования
 
