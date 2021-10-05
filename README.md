@@ -101,6 +101,3 @@ _Для владельца:_
 
 ### Регистрация
 ![registration_layout](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/registration.jpg)
-
-### Добавить маршрут (будет реализовано как веб-приложение)
-![addWay_layout](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/add_way.jpg)
