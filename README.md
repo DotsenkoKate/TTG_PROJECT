@@ -55,7 +55,7 @@ _Для владельца:_
 8. Просмотреть отчет и рекомендации по выбранному маршруту
 
 > Use-case диаграмма функциональных требований:
-![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Pictures/UseCaseTTG.png)
+![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Diagrams%20and%20Pictures/UseCaseTTG.png)
 
 ## Наша команда и задачи
 
