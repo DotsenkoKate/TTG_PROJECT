@@ -58,7 +58,7 @@ _Для владельца:_
 8. Просмотреть отчет по выбранному маршруту
 
 > Use-case диаграмма функциональных требований:
-![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Diagrams%20and%20Pictures/UseCaseTTGLite.drawio.png)
+![usecase](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Diagrams%20and%20Pictures/UseCase.png)
 
 ## Наша команда и задачи
 
@@ -66,8 +66,4 @@ _Для владельца:_
 
 > Задачи команды и процесс их выполнения: [наши задачи](https://trello.com/b/nwGLpS9q/ttg-project)
 
-## Нефункциональные требования
-
-
-
-## Макеты будущего приложения
+## 
