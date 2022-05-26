@@ -66,4 +66,16 @@ _Для владельца:_
 
 > Задачи команды и процесс их выполнения: [наши задачи](https://trello.com/b/nwGLpS9q/ttg-project)
 
-## 
+## Общая архитектура приложения
+
+![architecture](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Diagrams%20and%20Pictures/АрхитектураОбщее.png)
+
+## Структура БД
+
+![erd](https://github.com/DotsenkoKate/TTG_PROJECT/blob/main/Diagrams%20and%20Pictures/erd.jpg)
+
+## Модули приложения
+
++ [Мобильное приложение]()
++ [Веб-приложение](https://github.com/DotsenkoKate/TTGWeb)
++ [Приложение-сервер](https://github.com/IIPuBeT-AHgpeu/TTGServer)
