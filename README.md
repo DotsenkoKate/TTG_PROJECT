@@ -76,6 +76,6 @@ _Для владельца:_
 
 ## Модули приложения
 
-+ [Мобильное приложение]()
++ [Мобильное приложение](https://github.com/DotsenkoKate/TTGMobile)
 + [Веб-приложение](https://github.com/DotsenkoKate/TTGWeb)
 + [Приложение-сервер](https://github.com/IIPuBeT-AHgpeu/TTGServer)
